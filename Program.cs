@@ -1,13 +1,13 @@
-﻿Console.WriteLine("Hello world! 001...");
-Console.WriteLine("Hello world! 002...");
-Console.WriteLine("Hello world! 003...");
-Console.WriteLine("Hello world! 004...");
-Console.WriteLine("Hello world! 005...");
+﻿Console.WriteLine("Hello world! 001");
+Console.WriteLine("Hello world! 002 ...");
+Console.WriteLine("Hello world! ...");
+Console.WriteLine("Hello world! 004");
+Console.WriteLine("Hello world! 005");
 
-Console.WriteLine("Hello world! 016....");
-Console.WriteLine("Hello world! 017....");
-Console.WriteLine("Hello world! 018 ....");
-Console.WriteLine("Hello world! 019 ....");
+Console.WriteLine("Hello world! 016");
+Console.WriteLine("Hello world! 017");
+Console.WriteLine("Hello world! 018");
+Console.WriteLine("Hello world!    019");
 Console.WriteLine("Hello world! 020");
 Console.WriteLine("Hello world! 021");
 Console.WriteLine("Hello world! 022");
