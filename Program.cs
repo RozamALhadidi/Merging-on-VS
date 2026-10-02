@@ -2,6 +2,11 @@
 Console.WriteLine("Hello world! 002.......");
 Console.WriteLine("Hello world! 003.......");
 Console.WriteLine("Hello world! 004.......");
+﻿Console.WriteLine("Hello world! ....001");
+Console.WriteLine("Hello world! 002 ...");
+Console.WriteLine("Hello world! ...");
+
+
 Console.WriteLine("Hello world! 005");
 Console.WriteLine("Hello world! 006");
 Console.WriteLine("Hello world! 007");
@@ -9,18 +14,28 @@ Console.WriteLine("Hello world! 008");
 Console.WriteLine("Hello world! 0000000000");
 Console.WriteLine("Hello world! 0000000000");
 Console.WriteLine("Hello world! 0000000000");
+
+Console.WriteLine("Hello world! xxxxxxxxx");
+Console.WriteLine("Hello world! xxxxxxxxx");
+Console.WriteLine("Hello world! xxxxxxxxx");
 Console.WriteLine("Hello world! 012");
 
 Console.WriteLine("Hello world! 015");
 Console.WriteLine("Hello world! 016");
 Console.WriteLine("Hello world! 017");
 Console.WriteLine("Hello world! 018");
+
 Console.WriteLine("Hello world! 019");
 Console.WriteLine("Hello world! 020 ............");
 Console.WriteLine("Hello world! 021 ............");
 Console.WriteLine("Hello world! 022 ............");
 Console.WriteLine("Hello world! 023 ............");
-Console.WriteLine("Hello world! 024");
+
+Console.WriteLine("Hello world!    019");
+Console.WriteLine("Hello world! 0.....20");
+Console.WriteLine("Hello world! 0.......21");
+Console.WriteLine("Hello world! 0..........22");
+
 Console.WriteLine("Hello world! 025");
 Console.WriteLine("Hello world! 026");
 Console.WriteLine("Hello world! 027");
@@ -46,7 +61,10 @@ Console.WriteLine("Hello world! 046");
 Console.WriteLine("Hello world! 047");
 Console.WriteLine("Hello world! 048");
 Console.WriteLine("Hello world! 049");
+
 Console.WriteLine("Hello world! 050");
+
+Console.WriteLine("Hello world! 050 nononononono");
 Console.WriteLine("Hello world! 051");
 Console.WriteLine("Hello world! 052");
 Console.WriteLine("Hello world! 053");
